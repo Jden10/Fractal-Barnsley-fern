@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\x64\Debug\Fractal_ Barnsley_fern.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\x64\Debug\Fractal_ Barnsley_fern.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\x64\Debug\FractalBarnsleyfern.Form1.resources
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\x64\Debug\Fractal_ Barnsley_fern.vcxproj.GenerateResource.cache

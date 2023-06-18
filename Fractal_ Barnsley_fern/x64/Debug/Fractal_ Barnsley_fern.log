@@ -1,0 +1,20 @@
+﻿  Form1.cpp
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(69,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(557,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(557,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(557,95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(563,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(563,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(563,95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(574,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(575,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(576,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(577,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(608,81): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(617,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(756,82): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(756,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(794,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\Fractal_ Barnsley_fern\Form1.h(794,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Fractal_ Barnsley_fern.vcxproj -> C:\Users\Admin\Desktop\ЧГУ\Структурное программирование\Курсовая работа\Fractal_ Barnsley_fern\x64\Debug\FractalBarnsleyfern.exe
